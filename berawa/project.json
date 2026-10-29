@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-mediodia-madrid",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T08:25:00+01:00",
+ "updated_at": "2026-10-29T08:25:00+01:00",
+ "business": {
+  "name": "Hotel Mediodía",
+  "legal_name": "INMOBILIARIA MEDIODIA S.A.",
+  "registry_ids": [
+   "NIF A28013829"
+  ],
+  "url": "https://www.mediodiahotel.com/",
+  "domain": "mediodiahotel.com",
+  "municipality": "Madrid",
+  "province": "Madrid",
+  "address": "Plaza del Emperador Carlos V, 8 · 28012 Madrid",
+  "phones": [
+   "915 273 060"
+  ],
+  "emails": [
+   "recepcion@mediodiahotel.com"
+  ],
+  "sector": "hotel histórico frente a la estación de Atocha"
+ },
+ "rating": {
+  "value": 4.2,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Mediod%C3%ADa/@40.4084225,-3.6930039,17z/data=!4m9!3m8!1s0xd4226260494268d:0x25a7477d01c1dc75!5m2!4m1!1i2!8m2!3d40.4084225!4d-3.6930039!16s%2Fg%2F1tg9t_6z",
+  "date": "2026-10-29T06:50:23+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "email": "recepcion@mediodiahotel.com",
+  "note": "La web del negocio reserva con un buscador de Mirai cargado por JavaScript sin URL publica estable; la demo usa el correo de informacion y reservas publicado y el telefono."
+ },
+ "audit_original": {
+  "url": "https://www.mediodiahotel.com/",
+  "date": "2026-10-29T07:41:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: hotel con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}

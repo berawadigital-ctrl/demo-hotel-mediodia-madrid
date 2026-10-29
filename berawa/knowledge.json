@@ -1,0 +1,771 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-mediodia-madrid",
+ "source_site": "https://www.mediodiahotel.com/",
+ "source_read_at": "2026-10-29T08:00:00+01:00",
+ "note": "Respuestas solo con datos publicados en mediodiahotel.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "cuantas habitaciones",
+     "individual",
+     "superior",
+     "economica",
+     "familia",
+     "camas extra",
+     "vistas"
+    ],
+    "ca": [
+     "quines habitacions",
+     "tipus d habitacio",
+     "quantes habitacions",
+     "individual",
+     "superior",
+     "economica",
+     "familia",
+     "llits extra",
+     "vistes"
+    ],
+    "en": [
+     "what rooms",
+     "room types",
+     "how many rooms",
+     "single",
+     "superior",
+     "economy",
+     "family",
+     "extra bed",
+     "views"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre",
+     "combien de chambres",
+     "individuelle",
+     "superieure",
+     "economique",
+     "famille",
+     "lits supplementaires",
+     "vue"
+    ]
+   },
+   "a": {
+    "es": "Tiene 167 habitaciones de 7 tipos: Estándar cama matrimonio y Doble Estándar (12 a 14 metros cuadrados, interior o exterior con balcón), Individual (7 a 8 metros cuadrados, cama de 120cm), Económica (13 metros cuadrados, interior y muy tranquila), Doble Superior (19 metros cuadrados, exterior con vistas y balcón) y Estándar con camas extra para 3 o 4 personas. Algunas tienen vistas al Museo Reina Sofía o a la Plaza del Emperador Carlos V.",
+    "ca": "Té 167 habitacions de 7 tipus: Estàndard llit de matrimoni i Doble Estàndard (12 a 14 metres quadrats, interior o exterior amb balcó), Individual (7 a 8 metres quadrats, llit de 120cm), Econòmica (13 metres quadrats, interior i molt tranquil·la), Doble Superior (19 metres quadrats, exterior amb vistes i balcó) i Estàndard amb llits extra per a 3 o 4 persones. Algunes tenen vistes al Museu Reina Sofía o a la plaça de l'Emperador Carles V.",
+    "en": "It has 167 rooms of 7 types: Standard double bed and Standard Double (12 to 14 square metres, interior or exterior with balcony), Single (7 to 8 square metres, 120cm bed), Economy (13 square metres, interior and very quiet), Superior Double (19 square metres, exterior with views and balcony) and Standard with extra beds for 3 or 4 guests. Some overlook the Reina Sofía Museum or Plaza del Emperador Carlos V.",
+    "fr": "Il compte 167 chambres de 7 types : Standard lit double et Double standard (12 à 14 mètres carrés, sur cour ou côté rue avec balcon), Individuelle (7 à 8 mètres carrés, lit de 120cm), Économique (13 mètres carrés, intérieure et très calme), Double supérieure (19 mètres carrés, côté rue avec vue et balcon) et Standard avec lits supplémentaires pour 3 ou 4 personnes. Certaines donnent sur le musée Reina Sofía ou la place de l'Empereur Charles Quint."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/habitaciones/",
+     "quote": "167 habitaciones de 7 tipos"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/habitaciones/",
+     "quote": "Habitaciones de 12 a 14 metros cuadrados. Puede ser interior a patio de luces o exterior con balcón."
+    },
+    {
+     "url": "https://www.mediodiahotel.com/habitaciones/",
+     "quote": "Habitaciones de entre 7 a 8 metros cuadrados a patio de luces con cama de 120cm."
+    },
+    {
+     "url": "https://www.mediodiahotel.com/habitaciones/",
+     "quote": "Habitaciones de 13 metros cuadrados interiores a patio de luces y muy tranquilas."
+    },
+    {
+     "url": "https://www.mediodiahotel.com/habitaciones/",
+     "quote": "Habitaciones de 19 metros cuadrados, exterior con vistas y balcón."
+    },
+    {
+     "url": "https://www.mediodiahotel.com/habitaciones/",
+     "quote": "Max. 3 personas"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/habitaciones/",
+     "quote": "Max. 4 personas"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "Algunas de ellas cuentan con vistas privilegiadas al Museo Reina Sofía o a la Plaza del Emperador Carlos V"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "equipamiento",
+     "nevera",
+     "television",
+     " tv ",
+     "aire acondicionado",
+     "calefaccion",
+     "caja fuerte",
+     "secador",
+     "wifi",
+     "wi fi",
+     "cuna"
+    ],
+    "ca": [
+     "equipament",
+     "nevera",
+     "televisio",
+     " tv ",
+     "aire condicionat",
+     "calefaccio",
+     "caixa forta",
+     "assecador",
+     "wifi",
+     "wi fi",
+     "bressol"
+    ],
+    "en": [
+     "equipment",
+     "fridge",
+     "television",
+     " tv ",
+     "air conditioning",
+     "heating",
+     "safe",
+     "hairdryer",
+     "wifi",
+     "wi fi",
+     " cot"
+    ],
+    "fr": [
+     "equipement",
+     "frigo",
+     "television",
+     " tv ",
+     "climatisation",
+     "chauffage",
+     "coffre",
+     "seche cheveux",
+     "wifi",
+     "wi fi",
+     "lit bebe"
+    ]
+   },
+   "a": {
+    "es": "Las habitaciones tienen nevera, escritorio, televisión, teléfono, aire acondicionado, calefacción, caja fuerte gratis, wifi gratis, suelo de parquet, ducha o bañera y secador de pelo. Hay cuna bajo disponibilidad.",
+    "ca": "Les habitacions tenen nevera, escriptori, televisió, telèfon, aire condicionat, calefacció, caixa forta gratuïta, wifi gratuïta, terra de parquet, dutxa o banyera i assecador de cabells. Hi ha bressol segons disponibilitat.",
+    "en": "The rooms have a fridge, desk, television, telephone, air conditioning, heating, free safe, free wifi, parquet floor, shower or bath and hairdryer. A cot is available subject to availability.",
+    "fr": "Les chambres disposent d'un réfrigérateur, bureau, télévision, téléphone, climatisation, chauffage, coffre-fort gratuit, wifi gratuit, parquet, douche ou baignoire et sèche-cheveux. Lit bébé selon disponibilité."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/habitaciones/",
+     "quote": "Nevera Escritorio Televisión Teléfono Aire acondicionado Calefacción Caja fuerte gratis Internet wifi gratis Suelo de parquet Disponible con ducha o bañera Secador de pelo"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "Cuna (bajo disponibilidad)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "cafeteria",
+     "comer",
+     "salon social"
+    ],
+    "ca": [
+     "esmorzar",
+     "cafeteria",
+     "menjar",
+     "salo social"
+    ],
+    "en": [
+     "breakfast",
+     "cafe",
+     " eat",
+     "lounge"
+    ],
+    "fr": [
+     "petit dejeuner",
+     "cafeteria",
+     "manger",
+     "salon"
+    ]
+   },
+   "a": {
+    "es": "Hay desayuno continental y cafetería de 7 a 11h, además de un salón social.",
+    "ca": "Hi ha esmorzar continental i cafeteria de 7 a 11h, a més d'un saló social.",
+    "en": "There is a continental breakfast and a café from 7 to 11h, plus a lounge.",
+    "fr": "Il y a un petit-déjeuner continental et une cafétéria de 7 à 11h, ainsi qu'un salon."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "Salón social Cafetería (7-11h) Desayuno Continental Recepción 24h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcar",
+     "aparcamiento",
+     "garaje"
+    ],
+    "ca": [
+     "parking",
+     "parquing",
+     "aparcar",
+     "aparcament",
+     "garatge"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     "garage"
+    ],
+    "fr": [
+     "parking",
+     "stationnement",
+     "garer",
+     "garage"
+    ]
+   },
+   "a": {
+    "es": "Su web indica parking público en Ronda de Atocha, 10, previa reserva.",
+    "ca": "La seva web indica pàrquing públic a Ronda de Atocha, 10, amb reserva prèvia.",
+    "en": "Its website mentions public parking at Ronda de Atocha, 10, booking required.",
+    "fr": "Son site indique un parking public Ronda de Atocha, 10, sur réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "Parking público en Ronda de Atocha, 10 (previa reserva)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "horarios y servicios",
+   "keys": {
+    "es": [
+     "check in",
+     "check out",
+     "entrada",
+     "salida",
+     "recepcion",
+     "lavanderia",
+     "planchado",
+     "ascensor",
+     "accesible",
+     "movilidad reducida"
+    ],
+    "ca": [
+     "check in",
+     "check out",
+     "entrada",
+     "sortida",
+     "recepcio",
+     "bugaderia",
+     "planxa",
+     "ascensor",
+     "accessible",
+     "mobilitat reduida"
+    ],
+    "en": [
+     "check in",
+     "check out",
+     "reception",
+     "laundry",
+     "ironing",
+     "lift",
+     "elevator",
+     "accessible",
+     "reduced mobility",
+     "wheelchair"
+    ],
+    "fr": [
+     "check in",
+     "check out",
+     "arrivee",
+     "depart",
+     "reception",
+     "blanchisserie",
+     "repassage",
+     "ascenseur",
+     "accessible",
+     "mobilite reduite"
+    ]
+   },
+   "a": {
+    "es": "El check-in es a partir de las 15:00 y el check-out hasta las 12:00. Hay recepción 24h, wifi gratis, servicio de lavandería y planchado (de pago) y ascensores. Es accesible para personas con movilidad reducida, con entrada por Doctor Drumen 7.",
+    "ca": "El check-in és a partir de les 15:00 i el check-out fins a les 12:00. Hi ha recepció 24h, wifi gratuïta, servei de bugaderia i planxa (de pagament) i ascensors. És accessible per a persones amb mobilitat reduïda, amb entrada per Doctor Drumen 7.",
+    "en": "Check-in is from 15:00 and check-out until 12:00. There is a 24h reception, free wifi, laundry and ironing service (paid) and lifts. It is accessible for people with reduced mobility, with the entrance on Doctor Drumen 7.",
+    "fr": "L'arrivée se fait à partir de 15:00 et le départ jusqu'à 12:00. Il y a une réception 24h, le wifi gratuit, un service de blanchisserie et repassage (payant) et des ascenseurs. Il est accessible aux personnes à mobilité réduite, avec entrée par Doctor Drumen 7."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "Check-in: a partir de las 15:00 Check-out: Hasta las 12:00"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "Wifi Gratis Servicio de lavandería y planchado (de pago) Ascensores"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "Accesible para personas con movilidad reducida (entrada por Doctor Drumen 7)"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "Recepción 24h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato",
+     "animal"
+    ],
+    "ca": [
+     "mascot",
+     "gos",
+     "gat",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     " cat ",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "animal",
+     "chien",
+     "chat"
+    ]
+   },
+   "a": {
+    "es": "No se admiten mascotas.",
+    "ca": "No s'admeten mascotes.",
+    "en": "Pets are not allowed.",
+    "fr": "Les animaux ne sont pas admis."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "No se admiten mascotas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "metro",
+     "reina sofia",
+     "prado",
+     "thyssen",
+     "retiro",
+     "que ver",
+     "visitar",
+     "museo"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "metro",
+     "reina sofia",
+     "prado",
+     "thyssen",
+     "retiro",
+     "que veure",
+     "visitar",
+     "museu"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "metro",
+     "reina sofia",
+     "prado",
+     "thyssen",
+     "retiro",
+     "what to see",
+     "visit",
+     "museum"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "metro",
+     "reina sofia",
+     "prado",
+     "thyssen",
+     "retiro",
+     "a voir",
+     "visiter",
+     "musee"
+    ]
+   },
+   "a": {
+    "es": "Está en la Plaza del Emperador Carlos V, 8, 28012 Madrid. El metro Estación del Arte está a 75 m y la estación de Madrid Atocha (Renfe) a 215 m. A pie: Museo Reina Sofía (1 min), Museo del Prado (9 min), El Retiro (11 min) y Museo Thyssen (14 min), según su web.",
+    "ca": "És a la Plaza del Emperador Carlos V, 8, 28012 Madrid. El metro Estación del Arte és a 75 m i l'estació de Madrid Atocha (Renfe) a 215 m. A peu: Museu Reina Sofía (1 min), Museu del Prado (9 min), El Retiro (11 min) i Museu Thyssen (14 min), segons la seva web.",
+    "en": "It is at Plaza del Emperador Carlos V, 8, 28012 Madrid. Estación del Arte metro is 75 m away and Madrid Atocha (Renfe) station 215 m. On foot: Reina Sofía Museum (1 min), Prado Museum (9 min), El Retiro (11 min) and Thyssen Museum (14 min), according to its website.",
+    "fr": "Il se trouve Plaza del Emperador Carlos V, 8, 28012 Madrid. Le métro Estación del Arte est à 75 m et la gare de Madrid Atocha (Renfe) à 215 m. À pied : musée Reina Sofía (1 min), musée du Prado (9 min), le Retiro (11 min) et musée Thyssen (14 min), selon son site."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/habitaciones/",
+     "quote": "Plaza del Emperador Carlos V, 8 28012 Madrid España"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/hotel-atocha-madrid/",
+     "quote": "Metro de Estación del Arte 75 m"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/hotel-atocha-madrid/",
+     "quote": "Estación de Madrid Atocha (Renfe) 215 m"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/hotel-atocha-madrid/",
+     "quote": "Museo Reina Sofía 82M 1 MIN"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/hotel-atocha-madrid/",
+     "quote": "Museo del Prado 650M 9 MIN"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/hotel-atocha-madrid/",
+     "quote": "El Retiro 650 M 11 MIN"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/hotel-atocha-madrid/",
+     "quote": "Museo Thyssen 1KM 14 MIN"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "cómo llegar",
+   "keys": {
+    "es": [
+     "aeropuerto",
+     "barajas",
+     "como llego",
+     "como llegar",
+     "coche",
+     "tren",
+     "autobus"
+    ],
+    "ca": [
+     "aeroport",
+     "barajas",
+     "com hi arribo",
+     "com arribar",
+     "cotxe",
+     "tren",
+     "autobus"
+    ],
+    "en": [
+     "airport",
+     "barajas",
+     "get there",
+     "how to get",
+     " car ",
+     "train",
+     " bus"
+    ],
+    "fr": [
+     "aeroport",
+     "barajas",
+     "comment venir",
+     "comment arriver",
+     "voiture",
+     "train",
+     "bus"
+    ]
+   },
+   "a": {
+    "es": "Según su web, en coche desde el aeropuerto de Barajas son 20.5 km (unos 21 minutos). En transporte público, la estación de Madrid Atocha (Renfe) está a 215 m y hay autobuses a 110 m.",
+    "ca": "Segons la seva web, en cotxe des de l'aeroport de Barajas són 20.5 km (uns 21 minuts). En transport públic, l'estació de Madrid Atocha (Renfe) és a 215 m i hi ha autobusos a 110 m.",
+    "en": "According to its website, by car from Barajas airport it is 20.5 km (about 21 minutes). By public transport, Madrid Atocha (Renfe) station is 215 m away and there are buses 110 m away.",
+    "fr": "Selon son site, en voiture depuis l'aéroport de Barajas il y a 20.5 km (environ 21 minutes). En transports publics, la gare de Madrid Atocha (Renfe) est à 215 m et il y a des bus à 110 m."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/hotel-atocha-madrid/",
+     "quote": "Cómo llegar desde el aeropuerto de Barajas 20.5KM 21 MIN"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/hotel-atocha-madrid/",
+     "quote": "Estación de Madrid Atocha (Renfe) 215 m"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/hotel-atocha-madrid/",
+     "quote": "N14, N15, N17 - 110 m"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "historia",
+   "keys": {
+    "es": [
+     "historia",
+     "edificio",
+     "1914",
+     "arquitecto",
+     "vidrieras",
+     "nombre"
+    ],
+    "ca": [
+     "historia",
+     "edifici",
+     "1914",
+     "arquitecte",
+     "vitralls",
+     "nom"
+    ],
+    "en": [
+     "history",
+     "building",
+     "1914",
+     "architect",
+     "stained glass",
+     "name"
+    ],
+    "fr": [
+     "histoire",
+     "batiment",
+     "1914",
+     "architecte",
+     "vitraux",
+     "nom"
+    ]
+   },
+   "a": {
+    "es": "El edificio fue levantado en 1914 bajo la influencia del neoclasicismo francés, proyectado por el arquitecto Joaquín Saldaña López, con vidrieras originales de la Casa Maumejean. Su nombre recuerda que la actual estación de Atocha era conocida como la Estación del Mediodía.",
+    "ca": "L'edifici es va aixecar el 1914 sota la influència del neoclassicisme francès, projectat per l'arquitecte Joaquín Saldaña López, amb vitralls originals de la Casa Maumejean. El seu nom recorda que l'actual estació d'Atocha era coneguda com l'Estación del Mediodía.",
+    "en": "The building was erected in 1914 under the influence of French neoclassicism, designed by architect Joaquín Saldaña López, with original stained glass by Casa Maumejean. Its name recalls that today's Atocha station was known as the Estación del Mediodía.",
+    "fr": "Le bâtiment a été construit en 1914 sous l'influence du néoclassicisme français, conçu par l'architecte Joaquín Saldaña López, avec des vitraux originaux de la Casa Maumejean. Son nom rappelle que l'actuelle gare d'Atocha s'appelait la Estación del Mediodía."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "Levantado en 1914 bajo la influencia del neoclasicismo francés"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "proyectado por el arquitecto Joaquín Saldaña López"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "las vidrieras originales de la Casa Maumejean"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "la actual estación de Atocha era conocida como la Estación del Mediodía"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm",
+     "club",
+     "descuento"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma",
+     "club",
+     "descompte"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm",
+     "club",
+     "discount"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm",
+     "club",
+     "reduction"
+    ]
+   },
+   "a": {
+    "es": "Su web invita a unirse al Club Mediodía para obtener un 5% de descuento exclusivo en la reserva. Para reservar con esta demo, escribe a recepcion@mediodiahotel.com o llama al +34 915 273 060. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "La seva web convida a unir-se al Club Mediodía per obtenir un 5% de descompte exclusiu en la reserva. Per reservar amb aquesta demo, escriu a recepcion@mediodiahotel.com o truca al +34 915 273 060. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "Its website invites you to join Club Mediodía for an exclusive 5% discount on your booking. To book through this demo, email recepcion@mediodiahotel.com or call +34 915 273 060. This assistant does not confirm availability or bookings.",
+    "fr": "Son site invite à rejoindre le Club Mediodía pour obtenir 5% de réduction exclusive sur la réservation. Pour réserver via cette démo, écrivez à recepcion@mediodiahotel.com ou appelez le +34 915 273 060. Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/",
+     "quote": "¡Únete a Club Mediodía y consigue un 5% de descuento exclusivo en tu reserva!"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/contacto/",
+     "quote": "Tel: +34 915 273 060"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/contacto/",
+     "quote": "Información y reservas: recepcion@mediodiahotel.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "agencias",
+     "empresas"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "agencies",
+     "empreses"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     "contact",
+     "agencies",
+     "companies"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     "courriel",
+     "contact",
+     "agences",
+     "entreprises"
+    ]
+   },
+   "a": {
+    "es": "Teléfono +34 915 273 060. Información y reservas: recepcion@mediodiahotel.com. Empresas y agencias: info@mediodiahotel.com.",
+    "ca": "Telèfon +34 915 273 060. Informació i reserves: recepcion@mediodiahotel.com. Empreses i agències: info@mediodiahotel.com.",
+    "en": "Phone +34 915 273 060. Information and bookings: recepcion@mediodiahotel.com. Companies and agencies: info@mediodiahotel.com.",
+    "fr": "Téléphone +34 915 273 060. Informations et réservations : recepcion@mediodiahotel.com. Entreprises et agences : info@mediodiahotel.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/contacto/",
+     "quote": "Tel: +34 915 273 060"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/contacto/",
+     "quote": "Información y reservas: recepcion@mediodiahotel.com"
+    },
+    {
+     "url": "https://www.mediodiahotel.com/contacto/",
+     "quote": "Empresas y agencias: info@mediodiahotel.com"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "nif",
+     "cif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "nif",
+     "cif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "company name",
+     "nif"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "nif"
+    ]
+   },
+   "a": {
+    "es": "Su aviso legal indica como denominación social INMOBILIARIA MEDIODIA S.A. (NIF A28013829), con nombre comercial HOTEL MEDIODIA.",
+    "ca": "El seu avís legal indica com a denominació social INMOBILIARIA MEDIODIA S.A. (NIF A28013829), amb nom comercial HOTEL MEDIODIA.",
+    "en": "Its legal notice gives the company name INMOBILIARIA MEDIODIA S.A. (NIF A28013829), trading as HOTEL MEDIODIA.",
+    "fr": "Sa mention légale indique la raison sociale INMOBILIARIA MEDIODIA S.A. (NIF A28013829), nom commercial HOTEL MEDIODIA."
+   },
+   "sources": [
+    {
+     "url": "https://www.mediodiahotel.com/aviso-legal/",
+     "quote": "Nombre comercial: HOTEL MEDIODIA Denominación social: INMOBILIARIA MEDIODIA S.A. NIF: A28013829"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

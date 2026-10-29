@@ -1,0 +1,449 @@
+{
+ "url": "http://127.0.0.1:42169/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 167 habitaciones de 7 tipos: Estándar cama matrimonio y Doble Estándar (12 a 14 metros cuadrados, interior o exterior con balcón), Ind"
+    },
+    {
+     "q": "¿Qué equipamiento tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen nevera, escritorio, televisión, teléfono, aire acondicionado, calefacción, caja fuerte gratis, wifi gratis, suelo de"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Hay desayuno continental y cafetería de 7 a 11h, además de un salón social."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Su web indica parking público en Ronda de Atocha, 10, previa reserva."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "El check-in es a partir de las 15:00 y el check-out hasta las 12:00. Hay recepción 24h, wifi gratis, servicio de lavandería y planchado (de "
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No se admiten mascotas."
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la Plaza del Emperador Carlos V, 8, 28012 Madrid. El metro Estación del Arte está a 75 m y la estación de Madrid Atocha (Renfe) a 21"
+    },
+    {
+     "q": "¿Cómo llego desde el aeropuerto?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Según su web, en coche desde el aeropuerto de Barajas son 20.5 km (unos 21 minutos). En transporte público, la estación de Madrid Atocha (Re"
+    },
+    {
+     "q": "¿Qué historia tiene el edificio?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "El edificio fue levantado en 1914 bajo la influencia del neoclasicismo francés, proyectado por el arquitecto Joaquín Saldaña López, con vidr"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Su web invita a unirse al Club Mediodía para obtener un 5% de descuento exclusivo en la reserva. Para reservar con esta demo, escribe a rece"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono +34 915 273 060. Información y reservas: recepcion@mediodiahotel.com. Empresas y agencias: info@mediodiahotel.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Su aviso legal indica como denominación social INMOBILIARIA MEDIODIA S.A. (NIF A28013829), con nombre comercial HOTEL MEDIODIA."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 915 273 060 · recepcion@mediodiahotel.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Su web invita a unirse al Club Mediodía para obtener un 5% de descuento exclusivo en la reserva. Para reservar con esta demo, escribe a rece"
+    },
+    {
+     "q": "¿Tienen gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 915 273 060 · recepcion@mediodiahotel.com."
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 915 273 060 · recepcion@mediodiahotel.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Hay parking?",
+    "¿Dónde está?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "room1_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 167 habitacions de 7 tipus: Estàndard llit de matrimoni i Doble Estàndard (12 a 14 metres quadrats, interior o exterior amb balcó), Indiv"
+    },
+    {
+     "q": "Quin equipament tenen les habitacions?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen nevera, escriptori, televisió, telèfon, aire condicionat, calefacció, caixa forta gratuïta, wifi gratuïta, terra de pa"
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Hi ha esmorzar continental i cafeteria de 7 a 11h, a més d'un saló social."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La seva web indica pàrquing públic a Ronda de Atocha, 10, amb reserva prèvia."
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "El check-in és a partir de les 15:00 i el check-out fins a les 12:00. Hi ha recepció 24h, wifi gratuïta, servei de bugaderia i planxa (de pa"
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No s'admeten mascotes."
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "És a la Plaza del Emperador Carlos V, 8, 28012 Madrid. El metro Estación del Arte és a 75 m i l'estació de Madrid Atocha (Renfe) a 215 m. A "
+    },
+    {
+     "q": "Com hi arribo des de l'aeroport?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Segons la seva web, en cotxe des de l'aeroport de Barajas són 20.5 km (uns 21 minuts). En transport públic, l'estació de Madrid Atocha (Renf"
+    },
+    {
+     "q": "Quina història té l'edifici?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "L'edifici es va aixecar el 1914 sota la influència del neoclassicisme francès, projectat per l'arquitecte Joaquín Saldaña López, amb vitrall"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La seva web convida a unir-se al Club Mediodía per obtenir un 5% de descompte exclusiu en la reserva. Per reservar amb aquesta demo, escriu "
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telèfon +34 915 273 060. Informació i reserves: recepcion@mediodiahotel.com. Empreses i agències: info@mediodiahotel.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "El seu avís legal indica com a denominació social INMOBILIARIA MEDIODIA S.A. (NIF A28013829), amb nom comercial HOTEL MEDIODIA."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 915 273 060 · recepcion@mediodiahotel.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "La seva web convida a unir-se al Club Mediodía per obtenir un 5% de descompte exclusiu en la reserva. Per reservar amb aquesta demo, escriu "
+    },
+    {
+     "q": "Teniu gimnàs?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 915 273 060 · recepcion@mediodiahotel.com."
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 915 273 060 · recepcion@mediodiahotel.com."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "Hi ha pàrquing?",
+    "On és?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 167 rooms of 7 types: Standard double bed and Standard Double (12 to 14 square metres, interior or exterior with balcony), Single (7 "
+    },
+    {
+     "q": "What equipment do the rooms have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have a fridge, desk, television, telephone, air conditioning, heating, free safe, free wifi, parquet floor, shower or bath and hai"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "There is a continental breakfast and a café from 7 to 11h, plus a lounge."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Its website mentions public parking at Ronda de Atocha, 10, booking required."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Check-in is from 15:00 and check-out until 12:00. There is a 24h reception, free wifi, laundry and ironing service (paid) and lifts. It is a"
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Pets are not allowed."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Plaza del Emperador Carlos V, 8, 28012 Madrid. Estación del Arte metro is 75 m away and Madrid Atocha (Renfe) station 215 m. On foo"
+    },
+    {
+     "q": "How do I get there from the airport?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "According to its website, by car from Barajas airport it is 20.5 km (about 21 minutes). By public transport, Madrid Atocha (Renfe) station i"
+    },
+    {
+     "q": "What history does the building have?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "The building was erected in 1914 under the influence of French neoclassicism, designed by architect Joaquín Saldaña López, with original sta"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Its website invites you to join Club Mediodía for an exclusive 5% discount on your booking. To book through this demo, email recepcion@medio"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone +34 915 273 060. Information and bookings: recepcion@mediodiahotel.com. Companies and agencies: info@mediodiahotel.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Its legal notice gives the company name INMOBILIARIA MEDIODIA S.A. (NIF A28013829), trading as HOTEL MEDIODIA."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 915 273 060 · recepcion@mediodiahotel.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Its website invites you to join Club Mediodía for an exclusive 5% discount on your booking. To book through this demo, email recepcion@medio"
+    },
+    {
+     "q": "Do you have a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 915 273 060 · recepcion@mediodiahotel.com."
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 915 273 060 · recepcion@mediodiahotel.com."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Is there parking?",
+    "Where is it?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 167 chambres de 7 types : Standard lit double et Double standard (12 à 14 mètres carrés, sur cour ou côté rue avec balcon), Indivi"
+    },
+    {
+     "q": "Quel équipement ont les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres disposent d'un réfrigérateur, bureau, télévision, téléphone, climatisation, chauffage, coffre-fort gratuit, wifi gratuit, parqu"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il y a un petit-déjeuner continental et une cafétéria de 7 à 11h, ainsi qu'un salon."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Son site indique un parking public Ronda de Atocha, 10, sur réservation."
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "L'arrivée se fait à partir de 15:00 et le départ jusqu'à 12:00. Il y a une réception 24h, le wifi gratuit, un service de blanchisserie et re"
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Les animaux ne sont pas admis."
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il se trouve Plaza del Emperador Carlos V, 8, 28012 Madrid. Le métro Estación del Arte est à 75 m et la gare de Madrid Atocha (Renfe) à 215 "
+    },
+    {
+     "q": "Comment venir depuis l'aéroport ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Selon son site, en voiture depuis l'aéroport de Barajas il y a 20.5 km (environ 21 minutes). En transports publics, la gare de Madrid Atocha"
+    },
+    {
+     "q": "Quelle histoire a le bâtiment ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Le bâtiment a été construit en 1914 sous l'influence du néoclassicisme français, conçu par l'architecte Joaquín Saldaña López, avec des vitr"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Son site invite à rejoindre le Club Mediodía pour obtenir 5% de réduction exclusive sur la réservation. Pour réserver via cette démo, écrive"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone +34 915 273 060. Informations et réservations : recepcion@mediodiahotel.com. Entreprises et agences : info@mediodiahotel.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sa mention légale indique la raison sociale INMOBILIARIA MEDIODIA S.A. (NIF A28013829), nom commercial HOTEL MEDIODIA."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 915 273 060 · recepcion@mediodiahotel.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Son site invite à rejoindre le Club Mediodía pour obtenir 5% de réduction exclusive sur la réservation. Pour réserver via cette démo, écrive"
+    },
+    {
+     "q": "Avez-vous une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 915 273 060 · recepcion@mediodiahotel.com."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 915 273 060 · recepcion@mediodiahotel.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Où est-il ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

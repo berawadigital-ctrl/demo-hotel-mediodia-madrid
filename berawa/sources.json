@@ -1,0 +1,52 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.mediodiahotel.com/",
+ "read_at": "2026-10-29T08:00:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.mediodiahotel.com/",
+   "sha256": "b4146170c51009b6b9d186964eb431a2fc482fe907fbeca2028479f7d097c5f9",
+   "chars": 5458
+  },
+  {
+   "url": "https://www.mediodiahotel.com/aviso-legal/",
+   "sha256": "6d8436fd65c07b15497163645da6c37d85f9caff13b2fbf82e3ab6afb46f1fde",
+   "chars": 9515
+  },
+  {
+   "url": "https://www.mediodiahotel.com/contacto/",
+   "sha256": "6fb92b5b4727ecc6d195d859f2027765bd51bc5c555162296c4902a6cd251c0d",
+   "chars": 2129
+  },
+  {
+   "url": "https://www.mediodiahotel.com/habitaciones/",
+   "sha256": "d9133126213c2463eb3f44ff617f073ddf690b0177d37b0e51efdad54bb7c0b7",
+   "chars": 4535
+  },
+  {
+   "url": "https://www.mediodiahotel.com/hotel-atocha-madrid/",
+   "sha256": "4b870749328eb68dc0a2f8d918d81b78bddd33293905f6fccecec805a0634df6",
+   "chars": 3236
+  }
+ ],
+ "other_pages_read": [
+  "https://www.mediodiahotel.com",
+  "https://www.mediodiahotel.com/en/",
+  "https://www.mediodiahotel.com/en/art-triangle-atocha/",
+  "https://www.mediodiahotel.com/en/contact/",
+  "https://www.mediodiahotel.com/en/gallery/",
+  "https://www.mediodiahotel.com/en/hotel-atocha-madrid/",
+  "https://www.mediodiahotel.com/en/inmersive-experience/",
+  "https://www.mediodiahotel.com/en/rooms/",
+  "https://www.mediodiahotel.com/experiencia-inmersiva/",
+  "https://www.mediodiahotel.com/fr/",
+  "https://www.mediodiahotel.com/galeria/",
+  "https://www.mediodiahotel.com/it/",
+  "https://www.mediodiahotel.com/politica-de-cookies/",
+  "https://www.mediodiahotel.com/politica-privacidad/",
+  "https://www.mediodiahotel.com/pt/",
+  "https://www.mediodiahotel.com/trabaja-con-nosotros/",
+  "https://www.mediodiahotel.com/triangulo-del-arte-atocha/"
+ ]
+}
